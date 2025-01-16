@@ -1,6 +1,7 @@
 # ReactTodoList
-using React to implement to-do list
+Implement a simple to-do list with React
 
+![website screenshot](./screenshot.png)
 ## Installation steps
 Please execute the following instructions in order:
 ```
